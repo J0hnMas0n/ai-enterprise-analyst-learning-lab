@@ -1,0 +1,10 @@
+Application: Eligibility
+Priority: High
+Issue: Dependent pharmacy eligibility is not reaching the downstream pharmacy system.
+
+Customer Impact:
+Dependent cannot obtain prescription benefits.
+
+Initial Investigation:
+Subscriber eligibility appears correct.
+Dependent eligibility requires further investigation.
