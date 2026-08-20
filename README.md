@@ -6,6 +6,7 @@ This workspace contains my exercises and projects for learning modern AI and aut
 
 - GitHub
 - Visual Studio Code
+- Git version control
 
 ## Coming Next
 
